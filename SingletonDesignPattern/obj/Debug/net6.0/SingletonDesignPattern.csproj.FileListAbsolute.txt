@@ -1,0 +1,15 @@
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net6.0/SingletonDesignPattern
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net6.0/SingletonDesignPattern.deps.json
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net6.0/SingletonDesignPattern.runtimeconfig.json
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net6.0/SingletonDesignPattern.dll
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net6.0/SingletonDesignPattern.pdb
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/SingletonDesignPattern.csproj.AssemblyReference.cache
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/SingletonDesignPattern.AssemblyInfoInputs.cache
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/SingletonDesignPattern.AssemblyInfo.cs
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/SingletonDesignPattern.csproj.CoreCompileInputs.cache
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/SingletonDesignPattern.dll
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/refint/SingletonDesignPattern.dll
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/SingletonDesignPattern.pdb
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/SingletonDesignPattern.genruntimeconfig.cache
+/Users/hassanraza/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net6.0/ref/SingletonDesignPattern.dll
